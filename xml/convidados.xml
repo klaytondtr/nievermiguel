@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Convidados>
+  <Convidado>
+    <Nome>Meire</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Binho</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Nao Convidado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Lara</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Nao Convidado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Ketlyn</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Wesley</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Kamila</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Agnes</Nome>
+    <Pagante>Nao</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Conceicao</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Damiao</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Carina</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Havel</Nome>
+    <Pagante>Sim</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+  <Convidado>
+    <Nome>Murilo</Nome>
+    <Pagante>Nao</Pagante>
+    <Situacao>Confirmado</Situacao>
+  </Convidado>
+</Convidados>
